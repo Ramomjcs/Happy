@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Padrão do navegador é font-size: 16px, então 62.5% equivale a 10px*/
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    height: 100vh;
+    color: white;
+}
+
+body, input, button, textarea {
+    font: 400 1.8rem/1 'Nunito', sans-serif;
+}
+
+
+/*Desktop Version*/
+@media (min-width: 760px) {
+
+}
