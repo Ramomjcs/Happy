@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 /* Padrão do navegador é font-size: 16px, então 62.5% equivale a 10px*/
